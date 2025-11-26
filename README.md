@@ -38,6 +38,6 @@ Here we create a function that allows users to interact with the chatbot. It kee
 
 - Input Loop: Continuously prompts the user for input and displays the chatbot’s response until "exit" is typed.
 
-####7. Initializing the Chatbot
+#### 7. Initializing the Chatbot
 We instantiate the chatbot class and start the chat.
 
